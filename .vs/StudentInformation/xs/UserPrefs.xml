@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{F6070196-F8F2-46B5-8349-724DB8168959}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentInformation/Controllers/PeopleController.cs">
+    <Files>
+      <File FileName="StudentInformation/Models/Person.cs" Line="13" Column="17" />
+      <File FileName="StudentInformation/Controllers/PeopleController.cs" Line="103" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentInformation" expanded="True">
+            <Node name="StudentInformation" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PeopleController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StudentInformation FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.StudentInformation PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
